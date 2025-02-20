@@ -58,9 +58,9 @@ public class Main
   public static Integer highestNum(ArrayList<Integer> arr)
   {
     ArrayList<Integer> hai = new ArrayList<Integer>();
-    int max = 
-    Integer n = new Integer(0);
 
+    Integer n = new Integer(0);
+    
     for (Integer N : arr)
     {
       if (.. > high)
