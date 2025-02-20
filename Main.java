@@ -60,11 +60,12 @@ public class Main
     ArrayList<Integer> hai = new ArrayList<Integer>();
 
     Integer n = new Integer(0);
-    
+
     for (Integer N : arr)
     {
-      if (.. > high)
+      if ()
       {
+        
 
       }
     }
